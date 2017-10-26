@@ -1,4 +1,5 @@
 *.txt
+*.csv
 homework/homework2/.ipynb_checkpoints/*
 homework/homework1/.ipynb_checkpoints/*
 .idea/MachineLearning-CS3244.iml
@@ -6,4 +7,4 @@ homework/homework1/.ipynb_checkpoints/*
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
-inpublic/*
+inpublic/
